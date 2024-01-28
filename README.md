@@ -13,7 +13,7 @@
 3. `git remote add origin https://github.com/path_name.git`: Links the local repository to a GitHub repository.
 
 **SSH Key Generation:**
-- `ssh-keygen -t ed25519 -C "your_email@gmail.com"`: Generates an SSH key pair.
+- `ssh-keygen -t ed25519 -C "info@prabhakar.tech"`: Generates an SSH key pair.
 - `cat < ~/.ssh/id_ed25519.pub`: Displays the public key in the terminal.
 
 **GitHub SSH Key Setup:**
