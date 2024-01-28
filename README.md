@@ -45,4 +45,4 @@
 - `git revert commit_hash`: Creates a new commit that undoes the changes made in a previous commit.
 
 **Remove Git Repository:**
-- `rm -rf .git`: Removes the Git repository from the current working directory. Use with caution.
+- `rm -rf .git`: Removes the Git repository from the current working directory. **Use with caution⚠️.**
